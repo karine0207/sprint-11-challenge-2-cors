@@ -40,3 +40,4 @@ tendremos que crear otro proyecto diferente para crear nuestro front y apunte ha
 ## RECORDATORIO
 
 CORS anda detrá de nosotros... si no funicona la aplicación recordad que puede ser por un problema de CORS, abramos el inspector para ver los fallos y adelantemonos a ellos.
+ 
